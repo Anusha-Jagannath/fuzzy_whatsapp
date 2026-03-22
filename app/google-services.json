@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902469830000",
+    "firebase_url": "https://whatsappcloneapp-d19e1-default-rtdb.firebaseio.com",
+    "project_id": "whatsappcloneapp-d19e1",
+    "storage_bucket": "whatsappcloneapp-d19e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902469830000:android:d433e17407da8cd0503bb5",
+        "android_client_info": {
+          "package_name": "com.example.marchwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902469830000-kvuhkv7isndmtdkp1pcq2hrvcb8gaad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRlVQN_bytf9K1LBp56N6S1MV1yAkOGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902469830000-kvuhkv7isndmtdkp1pcq2hrvcb8gaad4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
