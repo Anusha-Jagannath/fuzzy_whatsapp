@@ -54,4 +54,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("com.google.android.gms:play-services-auth:21.5.1")
+    implementation("de.hdodenhof:circleimageview:3.1.0")
 }

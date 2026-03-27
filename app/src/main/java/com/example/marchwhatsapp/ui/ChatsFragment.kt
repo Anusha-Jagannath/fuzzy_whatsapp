@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.marchwhatsapp.databinding.FragmentSignupBinding
 import com.example.marchwhatsapp.databinding.FragmentsChatBinding
 
 class ChatsFragment : Fragment() {
